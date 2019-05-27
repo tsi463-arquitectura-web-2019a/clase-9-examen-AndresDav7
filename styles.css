@@ -1,0 +1,191 @@
+.title{
+height: 65px;
+background-color: #2d303a;
+}
+
+.navbar-brand {
+font-size: 25px;
+line-height: 6px;
+color: #ffffff;
+font-weight: 700;
+text-align: left;
+}
+
+.font{
+	background-color: #f06c64;
+}
+
+.font img{
+	    text-align: center;
+    padding: 0px 0px 0px 120px;
+}
+
+strong{
+	color: red;
+}
+.ourServices{
+padding: 25px;
+	background-color: #f2f2f2;
+	text-align: center;
+}
+
+.ourServices h1{
+	font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.ourServices p{
+width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 300;
+text-align: justify;
+}
+
+.ourServices h2{
+	font-size: 18px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.ourServices .text{
+width: 219px;
+height: 128px;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: left;
+}
+
+.PortfolioPage{
+padding: 25px;
+background-color: #464b5e;
+}
+
+.PortfolioPage h1{
+font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.PortfolioPage p{
+width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 300;
+text-align: left;}
+
+.PortfolioPage .btn{
+
+}
+
+.AboutUs h1{
+	font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.AboutUs p{
+width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 300;
+text-align: left;	
+}
+
+.AboutUs .text{
+width: 300px;
+height: 175px;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: left;	
+}
+
+.AboutUs h2{
+font-size: 18px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;	
+}
+
+.AboutUs{
+padding: 25px;
+	background-color: #f2f2f2;
+}
+
+.contactMe{
+background-color: #f06c64;
+padding: 25px;
+}
+
+.contactMe h1{
+font-size: 30px;
+line-height: 18px;
+color: #f0d8d9;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+.contactMe p{
+width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #f0d8d9;
+font-family: "Lato";
+font-weight: 300;
+text-align: left;
+}
+
+.contactMe h2{
+
+font-size: 18px;
+line-height: 18px;
+color: #f0d8d9;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+
+}
+
+
+.final{
+    padding: 25px;
+    color:  #666d89;;
+height: 76px;
+background-color: #2d303a;
+}
+
+#fondo{
+	padding: 20px 0px 20px 0px;
+}
+
